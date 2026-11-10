@@ -1,0 +1,1 @@
+Esta propuesta es más que sólo un TPS donde se registran transacciones. Cuando ustedes afirman lo que redactan en los últimos dos párrafos, eso va más allá de un TPS; lo más seguro es que sea un MIS o más bien un DSS. Ustedes le brindan la información al comprador para que tome la mejor decisión ¿o no?.
